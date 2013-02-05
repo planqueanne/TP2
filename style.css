@@ -1,12 +1,14 @@
 #container
 {
+	text-align: center;
 	margin: 0 30px;
-	background: #fff;
+	background: #FFFFF0;
 }
 
 #header
 {
-	background: #ccc;
+
+	background: #778899;
 	padding: 20px;
 }
 
@@ -36,7 +38,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: #800080;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -88,7 +90,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #778899;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
