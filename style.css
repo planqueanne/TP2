@@ -1,24 +1,35 @@
+body
+{
+    background-image: url("http://www.maxsauter.net/voyages/dublin_irlande_200607/dublin_irlande_riviere_077.jpg");
+    background-attachment: fixed;
+}
+
 #container
 {
+	
 	text-align: center;
 	margin: 0 30px;
 	background: #FFFFF0;
+	opacity: 0.9;
 }
 
 #header
 {
-
+	color: #4B0082;
 	background: #778899;
 	padding: 20px;
+	opacity: 0.9;
 }
 
 #header h1 { margin: 0; }
 
 #navigation
 {
+	color: #4B0082;
 	float: left;
 	width: 100%;
 	background: #333;
+	opacity: 0.9;
 }
 
 #navigation ul
@@ -35,18 +46,21 @@
 
 #navigation li a
 {
+	color: #4B0082;
 	display: block;
 	float: left;
 	padding: 5px 10px;
 	color: #800080;
 	text-decoration: none;
 	border-right: 1px solid #fff;
+	opacity: 0.9;
 }
 
 #navigation li a:hover { background: #383; }
 
 #edito
 {
+	color: #4B0082;
 	clear: left;
 	padding: 20px;
 	margin: 20px;
@@ -60,17 +74,20 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	
 }
 
 #edito h2
 {
-	color: #000;
+	
 	font-size: 160%;
 	margin: 0 0 .5em;
+	opacity: 0.9;
 }
 
 #news
 {	
+	color: #4B0082;
 	float: left;
 	width: 40%;
 	padding: 20px;
@@ -89,9 +106,11 @@
 
 #footer
 {
+	color: #4B0082;
 	clear: both;
 	background: #778899;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+	opacity: 0.9;
 }
